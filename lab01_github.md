@@ -23,3 +23,11 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  Create your response below this line. 
  ------------------
 
+##*A Favorite Quote*
+"All art is useless."
+   -Oscar Wilde
+   
+##*A Favorite Photo*
+
+##*A Favorite Photo*
+
