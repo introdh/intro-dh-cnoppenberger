@@ -24,8 +24,8 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  ------------------
 
 ##*A Favorite Quote*
-"All art is useless."
-   -Oscar Wilde
+>"All art is useless."
+   >-Oscar Wilde
    
 ##*A Favorite Photo*
 
