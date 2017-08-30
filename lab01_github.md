@@ -28,8 +28,8 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
    >-Oscar Wilde
    
 ## *A Favorite Photo*
-![alt text][logo]
-[logo]: https://www.facebook.com/photo.php?fbid=910952302325624&set=pb.100002325882739.-2207520000.1504052199.&type=3&theater
+![image]
+(https://www.facebook.com/photo.php?fbid=910952302325624&set=pb.100002325882739.-2207520000.1504052199.&type=3&theater)
 [Facebook](https://www.facebook.com/photo.php?fbid=910952302325624&set=pb.100002325882739.-2207520000.1504052199.&type=3&theater)
 ## *A Favorite Photo*
 
