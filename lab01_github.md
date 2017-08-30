@@ -28,6 +28,11 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
    >-Oscar Wilde
    
 ## *A Favorite Photo*
-
+![alt text](https://www.facebook.com/photo.php?fbid=910952302325624&set=pb.100002325882739.-2207520000.1504052199.&type=3&theater)
+[Facebook](https://www.facebook.com/photo.php?fbid=910952302325624&set=pb.100002325882739.-2207520000.1504052199.&type=3&theater)
 ## *A Favorite Photo*
 
+The biggest questions I have going into this class are:
+1. Is Digital HUmanities an entirely different category of humanities or is it simply an extension of the existing humanities?
+2. Will the pace of this course remain constant?
+3. How can I apply what I learn in this class to other classes?
