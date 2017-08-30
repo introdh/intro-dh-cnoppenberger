@@ -29,7 +29,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
    
 ## *A Favorite Photo*
 ![image]
-(https://www.facebook.com/photo.php?fbid=910952302325624&set=pb.100002325882739.-2207520000.1504052199.&type=3&theater)
+(https://scontent-iad3-1.xx.fbcdn.net/v/t31.0-8/12232662_910952302325624_8545815547873474299_o.jpg?oh=70f77c2d3d1c2de68e0a33b7eea65043&oe=5A5C6CB0) 
 [Facebook](https://www.facebook.com/photo.php?fbid=910952302325624&set=pb.100002325882739.-2207520000.1504052199.&type=3&theater)
 ## *A Favorite Photo*
 
