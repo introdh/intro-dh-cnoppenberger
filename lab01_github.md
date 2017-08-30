@@ -28,8 +28,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
    >-Oscar Wilde
    
 ## *A Favorite Photo*
-![image]
-(https://joeleagle.files.wordpress.com/2011/10/cascadefalls.jpg)
+![image](https://joeleagle.files.wordpress.com/2011/10/cascadefalls.jpg)
 [Source](https://joeleagle.com/tag/patapsco-valley-state-park/)
 ## *A Favorite Photo*
 
