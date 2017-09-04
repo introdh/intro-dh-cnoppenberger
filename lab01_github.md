@@ -28,8 +28,9 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
    >-Oscar Wilde
    
 ## *A Favorite Photo*
-![alt text](https://joeleagle.files.wordpress.com/2011/10/cascadefalls.jpg)
-[Source](https://joeleagle.com/tag/patapsco-valley-state-park/)
+![alt text](http://r.ddmcdn.com/s_f/o_1/cx_462/cy_245/cw_1349/ch_1349/w_720/APL/uploads/2015/06/caturday-shutterstock_149320799.jpg)
+
+[Source](http://www.animalplanet.com/pets/cats/)
 ## *A Favorite Photo*
 
 The biggest questions I have going into this class are:
