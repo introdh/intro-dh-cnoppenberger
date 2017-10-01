@@ -23,6 +23,15 @@ Though Martha Ballard's diary presented a more concrete example of topic modelin
 I suppose Belvin's visuals were most helpful to me. By mapping these correlating groups of words (that I still don't quite understand), he was able to clearly present trends of each of these topics, making his point much more clear by properly labelling his graphs and providing adequate context. 
 
 ### 2017-10-02: Topic Modeling II
+The part of the text analysis of Trump's tweets that was most confusing to me was the coding. I'm still confused as to how these programs work, and although this article provided a little more context than others, I'm still lost in all of the coding language and usage of each different program.
+My AHA moment was the clarity of the article, which included famililar examples and clear graphs with adequate explanations. Though I didn't understand everything that the article explained, the graphs made the author's argument much more clear by providing direct evidence for his claims. 
+
+My main point of confusion when reading through the description of topic modeling in Mining the Dispatch was how they decided the categories for topics. What if there were more topics within those thousands of newspapers? How can they be sure that every article is in the correct topic?
+My AHA moment came with the graphs again. The comparisons between predicted fugitive slave ads (based on topics) and close-read fugitive slave acts was astonishing. I was surprised at how accurate the program was, though I appreciated the concession the author made at the end: though the program isn't always correct, sometimes there are topics so out of the blue that we can truly discover something new in such a familiar history. 
+
+I am very curious as to how the Signs at 40 project was able to link general topics back to their specific articles with such a large corpus. I was also generally confused by the organization of the project; it was hard to tell what I was looking for. On the flip side, my AHA moment included the number of different, yet related topics the project included. Though I was confused as to what topic meant what, I believe the project did a decent job of linking the different topics together in a linear fashion. The visual on the homepage also helped me to understand the topics a little better.
+
+My biggest question in regards to the article about Harper Lee would be how scholars initially made the assumption that *To Kill a Mockingbird* was ghostwritten by Truman Capote. With so much evidence for Lee's authentic authorship (though with the added concession of a clear presence of editing), I'm curious as to what the arguments from the other side are. On an unrealted note, my AHA moment came at the mention of Rybicki's research into the voice of translators in scholarly work. I've always struggled with some of the grammar or word choice in translated works, and I've always wondered how much of that was in the original writing, and how much came from the translator. I'm very curious as to how tools like MALLET can be used to find the voice of an author.
 
 ### 2017-10-09: Stylometry
 
