@@ -36,6 +36,19 @@ My biggest question in regards to the article about Harper Lee would be how scho
 ### 2017-10-09: Stylometry
 
 ### 2017-10-18: Spatial history
+My AHA moment in Bodenhamer's explanation of the link between GIS technologies and history was the revolutionary change in how we view time and space. I had never considered how humanity viewed time before the instantaneity of telephones, television, or the internet. On that note, I am still unsure of why this link is important. Perhaps it's because I'm used to that instantaneity, but this article seemed like it was explaining something we already practiced (such as spatial mapping or the weblike nature of history), whether or not we could articulate it ourselves. 
+
+My WTF moment in White's *What is Spatial History?* and his description of the concept of space around line 7. Before reading this article, I thought I had a pretty good idea of space as geographical or physical space, but this explanation just complicated that concept further.
+His separation of space into representational space, absolute space, and relational space, helped to clarify things into an AHA moment, but I'm still confused as to how each of these forms of space are mapped and coordinated with each other.
+
+Shnayder's explanation of the *Shaping the Wild West Geodatabase* was my moment of clarification for the past few articles. This example helped to clarify some of the more vague concepts surrounding space in the digital humanities. 
+Towards the end of the article, Shnayder explained the varying levels of access to the project and its management. This made me wonder why and how different editors could change the content so easily when the technology seems fairly straightforward. 
+
+My AHA moment with the American Panorama project came with the explanation of some of the maps, which was incredibly helpful in regards to the sheer amount of data presented in each map. However, even with the explanations, some layouts were more clear than others. The Executive Abroad page was particularly confusing for me, even with the explanation, because each location was so small that it was very difficult to choose a small city. Additionally, though I liked the visual of the circle of presidents surrounding the globe, it made the graph of the relative number of visits difficult to read. The color key at the bottom also described a number of visits, though the colored dots actually corresponded to cities on the different continents, which was another point of confusion. 
+
+The most interesting part of *Redlining in Philadelphia* to me was the fact that it challenged previous research on redlining, such as Richmond's own project. It was helpful to see another side to the argument I've been talking about in multiple classes this semester. However, I'm confused as to the differences in method that led to this different conclusion. What are the differences in method, and how did they have this much of an impact on the formation of the history of redlining? 
+
+
 
 ### 2017-10-23: Mapping: A Critical Introductin
 
