@@ -1,6 +1,6 @@
 # Network Analysis of Supreme Court Data
 
-### The Issues
+### The Data
 For this network analysis exercise, I chose various Supreme Court issues, organized into certain codes by scholars at Washington University in St. Louis, and created networks of which cases referenced each other as precedent. I compared the issues of Natural Resources: Environmental Protection (code: 80130), National Supremacy: Natural resources (code: 100080), and National Supremacy: Pollution, Air or Water (code: 100090). I was curious to see how much overlap or centrality there would be amongst these variants of environmental law. The codes for each issue were separated, though environmental protection, natural resources, and pollution would seem to go hand in hand. The classification of “National Supremacy” is what seemed to generate the difference in each of these categories of environmental law. 
 
 ### The Networks
