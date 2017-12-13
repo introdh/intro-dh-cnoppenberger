@@ -1,21 +1,21 @@
 # Local Historic Research with GIS 
 
 ## Table of Contents
-**List of Participants**
+[**List of Participants**](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/Claire_Noppenberger_final_grant.md#list-of-participants)
 
-**Abstract**
+[**Abstract**](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/Claire_Noppenberger_final_grant.md#abstract)
 
-**Enhancing the Humanities**
+[**Enhancing the Humanities**](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/Claire_Noppenberger_final_grant.md#enhancing-the-humanities)
 
-**Environmental Scan**
+[**Environmental Scan**](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/Claire_Noppenberger_final_grant.md#environmental-scan)
 
-**History of the Project**
+[**History of the Project**](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/Claire_Noppenberger_final_grant.md#history-of-the-project)
 
-**Work Plan**
+[**Work Plan**](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/Claire_Noppenberger_final_grant.md#work-plan)
 
-**Staff**
+[**Staff**](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/Claire_Noppenberger_final_grant.md#staff)
 
-**Final Product and Dissemination**
+[**Final Product and Dissemination**](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/Claire_Noppenberger_final_grant.md#final-product-and-dissemination)
 
 ## List of Participants
 Claire Noppenberger - University of Richmond Department of Digital Humanities
