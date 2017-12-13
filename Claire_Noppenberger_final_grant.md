@@ -20,13 +20,13 @@
 ## List of Participants
 Claire Noppenberger - University of Richmond Department of Digital Humanities
 
+Lauren Tilton - University of Richmond Department of Digital Humanities 
+
 Robb Bailey - Maryland Park Service 
 
 Maria Day - Maryland State Archives
 
 Rob Schoeberlein - Maryland State Archives 
-
-Lauren Tilton - University of Richmond Department of Digital Humanities 
 
 Russell Cook - AllTrails
 
